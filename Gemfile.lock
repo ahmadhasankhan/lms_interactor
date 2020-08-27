@@ -55,7 +55,7 @@ GEM
     public_suffix (3.0.3)
     queryparams (0.0.3)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (13.0.1)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -112,7 +112,7 @@ DEPENDENCIES
   lms_interactor!
   nokogiri (~> 1.8)
   queryparams (~> 0.0.3)
-  rake (~> 10.0)
+  rake (~> 13.0)
   rspec (>= 3.8)
   rubocop
   simplecov (>= 0.15.1)
