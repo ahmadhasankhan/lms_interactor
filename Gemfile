@@ -7,7 +7,7 @@ gemspec
 
 gem 'faraday', '~> 0.15.2'
 gem 'faraday_middleware', '~> 0.12.2'
-gem 'nokogiri', '~> 1.10'
+gem 'nokogiri', '~> 1.13'
 gem 'queryparams', '~> 0.0.3'
 
 group :test do
